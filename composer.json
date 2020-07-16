@@ -1,6 +1,6 @@
 {
   "name": "meysam-znd/iran-gateways",
-  "description": "A iran gateways",
+  "description": "Iranian laravel bank gateways",
   "license": "MIT",
   "keywords": [
     "iran",
@@ -9,8 +9,8 @@
   "type": "library",
   "authors": [
     {
-      "name": "",
-      "email": ""
+      "name": "meysam zandy",
+      "email": "zandy.meysam@gmail.com"
     }
   ],
   "require": {
